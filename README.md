@@ -7,3 +7,4 @@ pandas, numpy, sklearn, matplotlib
 # 2 - Curso de Git 10/06
 git commnads
 git pull (importante)
+git fetch
