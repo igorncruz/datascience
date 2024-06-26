@@ -13,5 +13,7 @@ medidas de posição e dispersão, análise combinatória e probabilidade.
 # 4 - Curso de Python: noções introdutórias 10/06
 variáveis, laços de repetição, métodos, funções, dicionários.
 
-# 5 - Álgebra Linear
+# 5 - Álgebra Linear 11/06
 determinantes, matrizes.
+
+# Avaliação 19/06
